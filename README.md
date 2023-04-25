@@ -17,13 +17,7 @@ ssid = ddtc
 password = random2568
 ```
 
-You can test if each computer is connected to the software Angry IP Scanner.  
-you can download it on this adress : [https://angryip.org/download/](https://angryip.org/download/)
-  
-
-Exemple of the result of the scan :
-
-![angrip scanner](./map/angryIp.png)
+---
 
 ## For each player :
 You can download the iso image on this adress : 
@@ -41,7 +35,9 @@ How to install the iso image on a USB key :
 3. Open balenaEtcher and select the iso image
 4. Select the USB key
 5. Click on "Flash" and wait for the end of the installation
-
+  
+  
+### Time to boot tiny computer on usb flash drive:  
 How to boot on the USB key :
 
 1. Plug the USB key on the computer
@@ -49,27 +45,54 @@ How to boot on the USB key :
 3. Press the key to enter the boot menu (F12 or del for most computers)
 4. Select the USB key in the boot menu
 5. Save and exit
+6. At this point, the computer should boot on the USB key, it take 5 minutes to begin to view image on the screen
 
 You also turn always power on option in the bios to avoid the computer to turn off when there is a power cut.
 
 /!\ Repeat this operation for the 5 others players computers.
 
+---
+
+You can test if each computer is connected to the software Angry IP Scanner.  
+you can download it on this adress : [https://angryip.org/download/](https://angryip.org/download/)
+  
+
+Exemple of the result of the scan :
+
+![angrip scanner](./map/angryIp.png)
+
+---
+
 ## For the game computer :
 
 - The 2 screen of the computer must be connected to the graphic card and displayed un landscape mode.
-- Connect the 2 gamepad to the computer
+- Connect the 2 gamepads to the computer
 
 ![Game Computer display](./map/display.png)
 
 - Boot your computer with your favorite system (Windows or Linux)
-- Connecte the computer to the ddtc WIFI network
+- Connect the computer to the ddtc WIFI network
 
 Download the game : 
 
-Linux version :
+Linux version :  
 [https://system.freeboxos.fr:81/share/TrqkPLZGgUScgbTD/linux.zip](https://system.freeboxos.fr:81/share/TrqkPLZGgUScgbTD/linux.zip)
 
-Windows version :
+Windows version :  
 [https://system.freeboxos.fr:81/share/RBT0y9DOTfa4e04x/windows.zip](https://system.freeboxos.fr:81/share/RBT0y9DOTfa4e04x/windows.zip)
 
 Juste launch the game and enjoy !
+
+![manette](./map/manette.png)
+
+---
+
+# Open source Random(lab)
+
+The game and player is open source and you can find the source code on this adress :
+
+The players :  
+[https://github.com/RandomLab/DDTC_player](https://github.com/RandomLab/DDTC_player)
+
+The Game :  
+[https://github.com/RandomLab/DTCC_game](https://github.com/RandomLab/DTCC_game)
