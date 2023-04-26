@@ -65,6 +65,7 @@ Exemple of the result of the scan :
 
 ## For the game computer :
 
+- Connect the computer to the ddtc WIFI network (ssid : ddtc / pass : random2568)
 - The 2 screen of the computer must be connected to the graphic card and displayed un landscape mode.
 - Connect the 2 gamepads to the computer
 
