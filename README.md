@@ -10,8 +10,8 @@ List of computers used in exhibition :
 # 2. Easy installation with linux iso images : 
 ## Router configuration [!] :
 
-1. Settings the router in router mode
-2. Settings ssid and password of the wifi network
+1. Set the router in router mode.
+2. Set the ssid and password of the Wi-fi network.
 ```
 ssid = ddtc
 password = random2568
@@ -20,7 +20,7 @@ password = random2568
 ---
 
 ## For each player :
-You can download the iso image on this adress : 
+You can download the ISO image at this address:
 
 ### Link of ENGLISH version :
 [https://system.freeboxos.fr:81/share/6N-wyZYg5k9gKt06/mireos-V11_eng.iso](https://system.freeboxos.fr:81/share/6N-wyZYg5k9gKt06/mireos-V11_eng.iso)
@@ -28,7 +28,7 @@ You can download the iso image on this adress :
 ### Link of FRENCH version :
 [https://system.freeboxos.fr:81/share/yLmuux99JEPK7C92/mireos-V11_fr.iso](https://system.freeboxos.fr:81/share/yLmuux99JEPK7C92/mireos-V11_fr.iso)
 
-How to install the iso image on a USB key :
+How to install the ISO image on a USB key:
 
 1. Download the iso image
 2. Download the software [balenaEtcher](https://www.balena.io/etcher/)
@@ -47,14 +47,14 @@ How to boot on the USB key :
 5. Save and exit
 6. At this point, the computer should boot on the USB key, it take 5 minutes to begin to view image on the screen
 
-You also turn always power on option in the bios to avoid the computer to turn off when there is a power cut.
+You can also turn on the "always power on" option in the BIOS to avoid the computer turning off when there is a power cut.
 
-/!\ Repeat this operation for the 5 others players computers.
+/!\ Repeat this operation for the 5 other player's computers.
 
 ---
 
-You can test if each computer is connected to the software Angry IP Scanner.  
-you can download it on this adress : [https://angryip.org/download/](https://angryip.org/download/)
+You can test if each computer is connected to the software Angry IP Scanner. You can download it at this address:
+[https://angryip.org/download/](https://angryip.org/download/)
   
 
 Exemple of the result of the scan :
@@ -65,12 +65,12 @@ Exemple of the result of the scan :
 
 ## For the game computer :
 
-- Boot your computer with your favorite system (Windows or Linux)
+- Boot your computer with your favorite system (Window or Linux)
 - Connect the computer to the ddtc WIFI network (ssid : ddtc / pass : random2568)
-- The 2 screen of the computer must be connected to the graphic card and displayed un landscape mode.
+- The two screens of the computer must be connected to the graphics card and displayed in landscape mode.
 ![Game Computer display](./map/display.png)
-- Connect the 2 gamepads to the computer
-- Connect the computer to the ddtc WIFI network
+- Connect the 2 gamepads to the computer.
+- Connect the computer to the ddtc WIFI network.
 
 Download the game : 
 
@@ -80,7 +80,7 @@ Linux version :
 Windows version :  
 [https://system.freeboxos.fr:81/share/RBT0y9DOTfa4e04x/windows.zip](https://system.freeboxos.fr:81/share/RBT0y9DOTfa4e04x/windows.zip)
 
-Juste launch the game and enjoy !
+Just launch the game and enjoy !
 
 ![manette](./map/manette.png)
 
