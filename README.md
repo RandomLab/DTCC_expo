@@ -179,6 +179,8 @@ Images, svg, pdf...
 
 ![highDef picture](./posters/image1.png)
 
+![highDef pdf](./posters/afficheDTCC180423.jpg)
+
 ---
 
 # Open source Random(lab)
