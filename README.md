@@ -171,6 +171,16 @@ This project is supported by the European Erasmus + program
 
 ---
 
+# Raw material for communication
+
+Images, svg, pdf...
+
+[posters](./posters)
+
+![highDef picture](./posters/image1.png)
+
+---
+
 # Open source Random(lab)
 
 The game and player is open source and you can find the source code on this adress :
