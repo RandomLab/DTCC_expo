@@ -175,7 +175,7 @@ This project is supported by the European Erasmus + program
 
 Images, svg, pdf...
 
-[posters](./posters)
+[Raw material in this folder (Click me)](./posters)
 
 ![highDef picture](./posters/image1.png)
 
