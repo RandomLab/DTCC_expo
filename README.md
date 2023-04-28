@@ -1,5 +1,8 @@
 # DTCC_expo
 
+# C'est toi et moi, de base
+# It's you and me, basically
+
 # 1. Introduction
 
 List of computers used in exhibition :
